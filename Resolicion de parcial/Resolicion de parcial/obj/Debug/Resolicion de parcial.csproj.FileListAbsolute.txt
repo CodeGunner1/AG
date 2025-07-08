@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Form1.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.exe
+C:\Users\USER\documents\visual studio 2015\Projects\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\2DO PARCIAL\2 2024\SB\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\bin\Debug\Resolicion de parcial.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion_de_parcial.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2025\Parciales\final\2 SG\Resolicion de parcial\Resolicion de parcial\obj\Debug\Resolicion de parcial.pdb
